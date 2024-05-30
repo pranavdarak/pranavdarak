@@ -16,6 +16,7 @@
 - 🎓 Studying B.Tech in Computer Science and Engingeering from RCOEM, Nagpur
 - 💼 Pursuing BSc. in Programming and Data Science from IIT Madras
 - 🌐 I am passionate about Data Science and Web Development
+- 🧠 I lve working on ML Projects!
 
 <img align="right" alt="GIF" src="./gif.gif" width="500" height="320" />
 
