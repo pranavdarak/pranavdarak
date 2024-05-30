@@ -6,11 +6,10 @@
 
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=pranavdarak&color=00cf00)
-<b
+<br>
 📧 Reach me at **darakpranav9@gmail.com**
-<h2 align="left">
+
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-</h2>
 - 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜
 - 🎓 Studying B.Tech in Computer Science and Engingeering from RCOEM, Nagpur
 - 💼 Pursuing BSc. in Programming and Data Science from IIT Madras
