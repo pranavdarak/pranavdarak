@@ -1,8 +1,9 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Hey+Coder!%F0%9F%92%BB;I+am+Pranav+Darak+%F0%9F%98%8A; I+am+a+Web+Developer+%F0%9F%8D%81;I+am+a+Data+Scientist+%F0%9F%93%88;I+am+a+Software+Developer+%F0%9F%92%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Hey+Coder!%F0%9F%92%BB;I+am+Pranav+Darak+%F0%9F%98%8A;I+am+a+Web+Developer+%F0%9F%8D%81;I+am+a+Data+Scientist+%F0%9F%93%88;I+am+a+Software+Developer+%F0%9F%92%80" alt="Typing SVG" />
   </a>
 </h1>
+
 
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=pranavdarak&color=00cf00)
