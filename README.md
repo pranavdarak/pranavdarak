@@ -24,7 +24,7 @@
 
 <img align="right" alt="GIF" src="./gif.gif" width="500" height="320" />
 
-## 💻: Technologies and Frameworks
+## 💻 Techstack
 <p align="center">
       <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,python,java,html,css,js,vue,react,flask,django,sqlite,git,aws&perline=5" />
