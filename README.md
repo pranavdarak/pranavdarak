@@ -1,7 +1,6 @@
 <h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Pranav Darak</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavdarak&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
+![visitors](https://vbr.nathanchung.dev/badge?page_id=pranavdarak&color=00cf00)
 
 
 <img align="right" alt="GIF" src="./gif.gif" width="500" height="320" />
