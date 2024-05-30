@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavdarak&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
-
+<img align="right" alt="GIF" src="./gif.gif" width="500" height="320" />
 
 ## :link: Links
 
