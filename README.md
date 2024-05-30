@@ -10,11 +10,14 @@
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=pranavdarak&color=00cf00)
 <br>
 📧 Reach me at **darakpranav9@gmail.com**
-<div align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=20&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&width=200&lines=Python+stole+my+heart+before+anyone+else+could+even+compile.%F0%9F%90%8D" alt="Typing SVG" />
-  </a>
-</div>
+### Python stole my heart before anyone else could even compile. 💖
+
+Hey there! I'm [Your Name], and Python has been my language of choice ever since I started coding. From its simplicity to its versatility, Python has captured my heart like no other language. Whether I'm building web applications, diving into data analysis, or tinkering with machine learning models, Python is always there for me, ready to bring my ideas to life.
+
+Let's connect and share our love for Python! Feel free to reach out to me for collaborations, discussions, or just to geek out over our favorite language.
+
+![Python Love](https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif)
+
 
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
