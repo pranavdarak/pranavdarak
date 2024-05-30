@@ -6,8 +6,7 @@
 
 <img align="right" alt="GIF" src="./gif.gif" width="500" height="320" />
 
-## :link: Links
-
+## :link: Get in Touch
 <p align="center">
 
   <a href="mailto:darakpranav9@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
@@ -18,9 +17,3 @@
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=pranavdarak&show_icons=true&theme=dracula)
-
-<strong>Top Repositories</strong>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pranavdarak)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pranavdarak)
