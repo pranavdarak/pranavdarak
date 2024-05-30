@@ -10,13 +10,8 @@
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=pranavdarak&color=00cf00)
 <br>
 📧 Reach me at **darakpranav9@gmail.com**
-### Python stole my heart before anyone else could even compile. 💖
+#### Python stole my heart before anyone else could even compile. 💖
 
-Hey there! I'm [Your Name], and Python has been my language of choice ever since I started coding. From its simplicity to its versatility, Python has captured my heart like no other language. Whether I'm building web applications, diving into data analysis, or tinkering with machine learning models, Python is always there for me, ready to bring my ideas to life.
-
-Let's connect and share our love for Python! Feel free to reach out to me for collaborations, discussions, or just to geek out over our favorite language.
-
-![Python Love](https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif)
 
 
 
