@@ -10,7 +10,7 @@
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=pranavdarak&color=00cf00)
 <br>
 📧 Reach me at **darakpranav9@gmail.com**
-<h4 align="center">
+<h4 align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=35&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&width=600&lines=Python+stole+my+heart+before+anyone+else+could+even+compile.%F0%9F%90%8D" alt="Typing SVG" />
   </a>
