@@ -42,5 +42,4 @@
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavdarak&layout=donut&theme=dark&height=100)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pranavdarak&theme=github-blue&border_radius=10" alt="GitHub Streak" /></a>  
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pranavdarak&theme=github-blue&border_radius=10" alt="GitHub Streak" /></a> 
