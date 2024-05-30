@@ -1,9 +1,10 @@
 <h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Pranav Darak</h3>
 <h1 align="center">
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&duration=4000&pause=300&color=1A9FF7&center=true&vCenter=true&random=false&width=435&lines=Hi+There!%F0%9F%91%8B%F0%9F%8F%BB;I+am+Shrey+Nalode!%F0%9F%92%BB" alt="Typing SVG" /></a>
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Hi+There!%F0%9F%91%8B%F0%9F%8F%BB;I+am+Shrey+Nalode!%F0%9F%92%BB" alt="Typing SVG" />
+  </a>
 </h1>
+
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=pranavdarak&color=00cf00)
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
