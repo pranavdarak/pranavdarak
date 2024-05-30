@@ -12,3 +12,7 @@
   <a href="https://www.linkedin.com/in/pranavdarak"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://www.instagram.com/pranav_drock"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
 </p>
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=pranavdarak&show_icons=true&theme=dracula)
