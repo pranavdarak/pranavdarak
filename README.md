@@ -6,7 +6,6 @@
 
 
 
-
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=pranavdarak&color=00cf00)
 <br>
 📧 Reach me at **darakpranav9@gmail.com**
